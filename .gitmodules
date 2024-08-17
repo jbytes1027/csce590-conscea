@@ -1,0 +1,9 @@
+[submodule "website"]
+	path = website
+	url = https://dev.azure.com/jamesmpretorius/csce590-conscea/_git/website
+[submodule "api"]
+	path = api
+	url = https://dev.azure.com/jamesmpretorius/csce590-conscea/_git/api
+[submodule "import-functions"]
+	path = import-functions
+	url = https://dev.azure.com/jamesmpretorius/csce590-conscea/_git/import-functions
