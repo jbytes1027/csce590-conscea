@@ -4,7 +4,7 @@ Conscea is a certificate management system for employers. It was assigned as a g
 ## Notable Contributions
 - **Built the backend**
     - Implemented data importing from Blob Storage to Azure SQL via Azure [Functions](https://dev.azure.com/jamesmpretorius/csce590-conscea/_git/import-functions).
-    - Implemented email notifications by connecting the API to an Azure Logic App via a Service Bus queue
+    - Implemented email notifications by connecting the API to an Azure Logic App via a Service Bus queue.
     - Wrote the [API](https://dev.azure.com/jamesmpretorius/csce590-conscea/_git/api).
 - **Handled DevOps**
     - Configured repositories and Azure services.
