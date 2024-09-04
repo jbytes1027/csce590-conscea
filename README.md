@@ -12,7 +12,11 @@ Conscea is a certificate management system for employers. It was assigned as a g
     - Connected and deployed everything.
 
 ## Architecture Overview
-![Conscea_Architecture](https://github.com/user-attachments/assets/99eea9b4-8204-4314-b416-543d249d6bbb)
+<p align="center">
+  <a href="https://miscfiles.blob.core.windows.net/conscea/conscea_architecture.svg">
+    <img src="https://miscfiles.blob.core.windows.net/conscea/conscea_architecture.svg">
+  </a>
+</p>
 
 ## Tech
 - Backend
