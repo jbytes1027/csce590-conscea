@@ -11,6 +11,9 @@ Conscea is a certificate management system for employers. It was assigned as a g
     - Reviewed pull requests.
     - Connected and deployed everything.
 
+## Architecture Overview
+![Conscea_Architecture](https://github.com/user-attachments/assets/99eea9b4-8204-4314-b416-543d249d6bbb)
+
 ## Tech
 - Backend
     - ASP\.NET
